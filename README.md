@@ -23,5 +23,6 @@ A dedicatedd cybersecurity analyst and smart contract developer specializing in 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-161616?style=for-the-badge&logo=foundry&logoColor=white)
 
 
