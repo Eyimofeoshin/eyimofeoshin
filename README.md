@@ -8,7 +8,7 @@ A dedicatedd cybersecurity analyst and smart contract developer specializing in 
 - 📫 How to reach me: eyimofeoshin@gmail.com .
 
 ## 🌐 Socials:
-[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/yourprofile)
+[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/oshin-eyimofe-504719217/)
 [ ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/yourhandle)
 
 ## 💻 Tech Stack:
@@ -24,8 +24,4 @@ A dedicatedd cybersecurity analyst and smart contract developer specializing in 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyimofeoshin&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofeoshin&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
